@@ -1,0 +1,27 @@
+{
+  "name": "native-genesis",
+  "version": "0.1.0",
+  "description": "The Genesis React Native framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/native-genesis/native-genesis.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react",
+    "genesis",
+    "framework",
+    "frontend"
+  ],
+  "author": "Jorge Duarte Rodríguez <info@malagadev.com> (https://github.com/jduarter)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/native-genesis/native-genesis/issues"
+  },
+  "homepage": "https://github.com/native-genesis/native-genesis#readme"
+}
